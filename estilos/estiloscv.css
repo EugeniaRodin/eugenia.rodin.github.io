@@ -5,8 +5,9 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
 }
+
 body {
-    background-color: #8fff8f;
+    background-color: #000000;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -136,10 +137,11 @@ margin-bottom: 15px;
     top: 0;
     left: 0;
     height: 100%;
-    background: #000000;
+    background: #2cff37;
  }
 
 /*-------LADO DERECHO-------*/
+
 .container .lado_dcho{
     position: relative;
     background: #ffffff;
